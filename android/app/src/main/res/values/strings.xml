@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hayuq</string>
+      <string moduleConfig="true" name="CodePushDeploymentKey">1xoYSTXPkDBKf13gqPCzwl43kHyIQsfhfQZOh</string>
+</resources>

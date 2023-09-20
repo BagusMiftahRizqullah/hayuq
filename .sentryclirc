@@ -1,0 +1,7 @@
+[auth]
+token=6e1667ece02641aaae72a56c1e89a3e08f314da365004339b96f5658f1c14ed6
+
+[defaults]
+project=react-native
+org=hayuq
+url = https://sentry.io/

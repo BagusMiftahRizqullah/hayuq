@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Hind-Bold.ttf",
+      "sha1": "d66e1dd248db79a3afb8e807ffab9b29ba0b9f59"
+    },
+    {
+      "path": "assets/fonts/Hind-Regular.ttf",
+      "sha1": "046abd8541e56d2dcd0071940133b91165625bf9"
+    },
+    {
+      "path": "assets/fonts/Hind-SemiBold.ttf",
+      "sha1": "0c9e8fca5676792ed9dc192d0ebaa2aa78c2d3d0"
+    },
+    {
+      "path": "assets/fonts/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "assets/fonts/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    }
+  ]
+}
